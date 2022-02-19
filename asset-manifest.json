@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mailchimp0122/static/css/main.e6c13ad2.css",
+    "main.js": "/mailchimp0122/static/js/main.8c63b72a.js",
+    "index.html": "/mailchimp0122/index.html",
+    "main.e6c13ad2.css.map": "/mailchimp0122/static/css/main.e6c13ad2.css.map",
+    "main.8c63b72a.js.map": "/mailchimp0122/static/js/main.8c63b72a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8c63b72a.js"
+  ]
+}
